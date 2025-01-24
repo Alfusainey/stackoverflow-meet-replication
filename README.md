@@ -26,7 +26,9 @@ Additional case study directories follow this naming convention.
 Each case study directory has a `README.md` file that provides specific documentation, including instructions for running the code, 
 a description of the datasets used, and any particular setup or configuration details required for replication. 
 
-- `sql`: This directory contains a dump of the database tables containing the data needed for the reproduction. 
+#### `sql` directory: 
+
+This directory contains a dump of the database tables containing the data needed for the reproduction. 
 The tables were exported using the `mysqldump` command, as follows:
 
 ```bash

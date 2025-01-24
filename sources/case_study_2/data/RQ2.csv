@@ -1,0 +1,9 @@
+Label,AcceptanceLabel,Count
+Secure posts (Replication),Accepted posts,151289
+Insecure posts (Replication),Accepted posts,11678
+Secure posts (Replication),Non-accepted posts,235492
+Insecure posts (Replication),Non-accepted posts,15566
+Secure posts (Original),Accepted posts,270042
+Insecure posts (Original),Accepted posts,4588
+Secure posts (Original),Non-accepted posts,386020
+Insecure posts (Original),Non-accepted posts,7870
