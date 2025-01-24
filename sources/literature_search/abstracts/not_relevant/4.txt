@@ -1,0 +1,3 @@
+An Anatomy of Security Conversations in Stack Overflow
+10.1109/ICSE-SEIS.2019.00012
+As software-intensive digital systems become an integral part of modern life, ensuring that these systems are developed to satisfy security and privacy requirements is an increasingly important societal concern. This paper examines how secure coding practice is supported on Stack Overflow. Although there are indications that on-line environments are not robust or accurate sources of security information, they are used by large numbers of developers. Findings demonstrate that developers use conversation within the site to actively connect with and tend to security problems, fostering knowledge, exchanging information and providing assistance to one another.
